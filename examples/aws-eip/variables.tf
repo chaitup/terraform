@@ -12,5 +12,5 @@ variable "aws_amis" {
 }
 
 variable "key_name" {
-  description = "Name of the SSH keypair to use in AWS."
+  description = "test.pem"
 }
