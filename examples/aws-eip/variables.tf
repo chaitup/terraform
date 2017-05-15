@@ -12,5 +12,5 @@ variable "aws_amis" {
 }
 
 variable "key_name" {
-  description = "test.pem"
+  default = "test.pem"
 }
